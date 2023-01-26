@@ -1,4 +1,4 @@
-# SM
+# Sistemas Multimédia
 ## Conteúdos
 - Capítulo 1 - Fundamentos
     - Conceito de sinal e sistema. Exemplo de sinais: de som e de imagem
